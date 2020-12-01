@@ -1,0 +1,5 @@
+This is a spam file
+
+a new line before me
+
+in/out demo
