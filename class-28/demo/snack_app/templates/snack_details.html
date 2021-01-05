@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block main %}
+  <h2> Welcome to Snacks App </h2>
+  <h3>Name:  {{ snack.name }}</h3>
+  <h3>Rank:  {{ snack.rank }}</h3>
+  <h3>Eater: {{ snack.eater }}</h3>
+  <a href="{% url 'snack_delete' snack.pk %}">Delete</a>
+  <a href="{% url 'snack_update' snack.pk %}">Update</a>
+{% endblock main%}
