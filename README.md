@@ -9,6 +9,10 @@
 #### Python Basics
 
 - Class 1 : Intro to Python
+## whitebord workflow for challenge 1
+
+![](array-reverse.jpg)
+---
 - Class 2 : Modules and Testing
 - Class 3 : File IO & Exceptions
 - Class 4 : Object Oriented Programming
